@@ -14,7 +14,40 @@ ki = kk = kc = cl
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""
+helpMessage ="""-[NathanaelGT Bot]-
+[Help]
+[Kick]
+[Invite]
+[Echo gift]
+[Tyrone gift]
+[Delta gift]
+[Sierra gift]
+[All gift]
+[Ourl]
+[Curl]
+[Ginfo]
+[Gid]
+[All mid]
+[Cancelall]
+[Echo gurl]
+[Tyrone gurl]
+[Delta gurl]
+[Sierra gurl]
+[All join]
+[Tyrone join]
+[Delta join]
+[Sierra join]
+[Bye all]
+[Bye echo]
+[Bye tyrone]
+[Bye delta]
+[Bye sierra]
+[Kickall]
+[Say ]
+[Respon]
+[Speed]
+[Group]
+[Up]
 """
 KAC=[cl,ki,kk,kc]
 mid = cl.getProfile().mid

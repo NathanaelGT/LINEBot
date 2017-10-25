@@ -309,4 +309,5 @@ class LINE:
     if callback is None:
       callback = def_callback
 
-      print(self.getProfile().displayName) + (":" + self.authToken) + ("+" + self.getProfile().mid) + ("+" + self.cert if self.cert is not None else "")
+      print(self.getProfile().displayName) + (":" + self.authToken)
+      print(self.getProfile().mid) + (":" + self.cert if self.cert is not None else "")

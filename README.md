@@ -14,6 +14,6 @@ sudo pip install thrift==0.9.3
 
 sudo pip install requests
 
-git clone https://github.com/NathanaelGT/LINEbot/
+git clone http://github.com/NathanaelGT/LINEbot
 # How To Run
 cd LINEbot && python start.py
